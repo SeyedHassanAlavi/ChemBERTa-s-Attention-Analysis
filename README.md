@@ -129,9 +129,3 @@ All experiments use:
 **DeepChem/ChemBERTa-77M-MLM**
 
 available through the Hugging Face ecosystem.
-
----
-
-## Citation
-
-If you use this repository in your research, please cite the associated manuscript.
